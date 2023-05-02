@@ -1,4 +1,5 @@
-- 👏 안녕하세요!!!!!
+- 👏 안녕하세요!
 - 🍑 강력한 백엔드 엔지니어가 될 거라구욧!
 - 🍇 https://velog.io/@hhs7425
 - 🍏 bolton7425@gmail.com
+- 🍈 Node.js | Nest.js | MySQL
